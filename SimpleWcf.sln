@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleWcf.Console", "SimpleWcf.Console\SimpleWcf.Console.csproj", "{AD5C983A-F7A2-48F0-AF88-DB85B61F956B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleWcf.Contracts", "SimpleWcf.Contracts\SimpleWcf.Contracts.csproj", "{5C53535F-D780-439C-96D0-140D762D6476}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD5C983A-F7A2-48F0-AF88-DB85B61F956B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD5C983A-F7A2-48F0-AF88-DB85B61F956B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD5C983A-F7A2-48F0-AF88-DB85B61F956B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD5C983A-F7A2-48F0-AF88-DB85B61F956B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C53535F-D780-439C-96D0-140D762D6476}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C53535F-D780-439C-96D0-140D762D6476}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C53535F-D780-439C-96D0-140D762D6476}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C53535F-D780-439C-96D0-140D762D6476}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
